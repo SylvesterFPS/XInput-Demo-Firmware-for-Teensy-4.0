@@ -15,5 +15,6 @@ It is normal that the sticks will not be perfectly centered, as there is no auto
 <img width="100%" alt="Screenshot 2026-09-12 214056" src="https://github.com/user-attachments/assets/97449609-6b83-4231-8809-75e4fd1d42bc" />
 
 ## Latency Test
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/5f4dd817-b140-4c0d-aeca-83e1ea5a2b86" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/d376e095-ec80-486d-af2f-7ba00c84ae23" />
+
 
