@@ -1,6 +1,6 @@
 # XInput Demo Firmware for Teensy 4.0
 
-This demo firmware is used to test whether the buttons and sticks (A, B, X, Y, and the right stick) are working. Additionally, the firmware is intended to demonstrate the button latency in XInput mode. Below, you will find instructions on how to flash and connect the Teensy 4.0 microcontroller to test the demo version yourself.
+This demo firmware is used to test whether the buttons and sticks (A, B, X, Y, and the right stick) are working. Additionally, the firmware is intended to demonstrate the button latency in XInput mode. Below, you will find instructions on how to flash and connect the Teensy 4.0 microcontroller to test the demo version yourself. Use the .hex-file for testing.
 
 **Importen Links:**  
 Teensy 4.0: https://www.pjrc.com/store/teensy40.html  
